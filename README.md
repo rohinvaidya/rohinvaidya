@@ -7,7 +7,7 @@
 Software Engineering Master's student at the University of Maryland, College Park with 2+ years of experience specializing in web development. I am interested in cloud technologies, data analytics and AI-driven applications. I am committed to collaborative innovation and continuous delivery of high-performance software.
 
 - I'm pursuing a **Master of Engineering in Software Engineering**
-- I'm passionate about **Cloud Computing and Colud Native Applications**
+- I'm passionate about **Cloud Computing and Cloud Native Applications**
 - Interested in contributing to **Open Source Projects**
 
 ## ⚡Skills
