@@ -67,9 +67,15 @@ University of Mumbai, India
 2017 - 2021
 
 ## 📊 GitHub Stats
+![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinvaidya&show_icons=true&theme=radical)
 
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinvaidya&show_icons=true&theme=radical)
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohinvaidya&theme=tokyonight&hide_border=true)
 
+### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinvaidya&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohinvaidya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 💬 Feel free to reach out if you're interested in collaborating or have any questions!
