@@ -2,9 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohin-vaidya/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohin.vaidya@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohinvaidya.github.io/)
 
 ## 📝 About Me
-Software Engineering Master's student at the University of Maryland, College Park with 2+ years of experience specializing in web development. I am interested in cloud technologies, data analytics and AI-driven applications. I am committed to collaborative innovation and continuous delivery of high-performance software.
+Software Engineering Master's student at the University of Maryland, College Park, with 2.5+ years of experience specializing in web development. I am interested in cloud technologies, data analytics, and AI-driven applications. I am committed to collaborative innovation and continuous delivery of high-performance software.
 
 - I'm pursuing a **Master of Engineering in Software Engineering**
 - I'm passionate about **Cloud Computing and Cloud Native Applications**
@@ -51,10 +52,10 @@ Software Engineering Master's student at the University of Maryland, College Par
 - Enhanced user experience by redesigning and optimizing 15+ user interface screens
 - Delivered robust full-stack solutions in an Agile development environment, collaboratively designing and implementing integrated
 components from the frontend to the database layer, efficiently processing 500k+ monthly transactions.
-- Improved production stability and client confidence through dedicated technical support for major releases, chieving 99%
+- Improved production stability and client confidence through dedicated technical support for major releases, achieving 99%
 deployment success and consistent operational excellence.
 - Accelerated project delivery by 15% through cross-functional team collaboration and clear communication across multiple Agile
-teams. Actively participated in daily stand-ups and sprint planning meetings facilitating smoother development workflows.
+teams. Actively participated in daily stand-ups and sprint planning meetings, facilitating smoother development workflows.
 
 ## 🎓 Education
 
